@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Vimal Gondaliya
+- 👀 I’m interested in Python,SQL and R-Scrip
+- 🌱 I’m currently learning AI/ML
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me contact.vimal.gondaliya@gmail.com
